@@ -16,7 +16,7 @@
 I'm a Front-end Developer.
 I participated in the development of several digital projects, including institutional websites and e-commerces, which impact thousands of users and consumers. Always focused on user experience and results conversion.
 
-Currently I have been working to improve and learning about ReactJS, seeking knowledge and developing some projects.
+Currently I have been working with ReactJS, improving my knowledge and developing some projects.
 
 I also work with PHP, MySQL, Wordpress, Woocommerce and others. 
 

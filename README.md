@@ -22,5 +22,5 @@ I also work with PHP, MySQL, Wordpress, Woocommerce and others.
 
 I like writing clean code and applying best practices. ✨
 
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FelipeFerreira23)
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeferreira-23/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FelipeFerreira23)](https://github.com/FelipeFerreira23)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeferreira-23/)](https://www.linkedin.com/in/felipeferreira-23/)

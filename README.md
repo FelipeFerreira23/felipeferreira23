@@ -12,7 +12,7 @@
 ![Github Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-### About me ✨
+### About me 👨🏻‍💻
 I'm a Front-end Developer.
 I participated in the development of several digital projects, including institutional websites and e-commerces, which impact thousands of users and consumers. Always focused on user experience and results conversion.
 
@@ -20,7 +20,7 @@ Currently I have been working to improve and learning about ReactJS, seeking kno
 
 I also work with PHP, MySQL, Wordpress, Woocommerce and others. 
 
-I like writing clean code and applying best practices. ☕
+I like writing clean code and applying best practices. ✨
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FelipeFerreira23)]
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeferreira-23/)]
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FelipeFerreira23)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeferreira-23/)
